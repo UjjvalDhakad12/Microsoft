@@ -1,0 +1,255 @@
+* {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.navbar {
+    height: 50px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    text-decoration-line: none;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 100px;
+}
+
+.border {
+    border: 1pxsolid transparent;
+}
+
+.border:hover {
+    border: 1px solid rgb(62, 4, 4);
+
+}
+
+.logo {
+    background-image: url("micro.jpg");
+    background-size: cover;
+    height: 50px;
+    width: 130px;
+    margin-left: 80px;
+
+}
+
+.hover:hover {
+    text-decoration: underline 2px solid black;
+}
+
+
+#hero {
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-AI-7Ed-Sapphire-MC001-3000x1682:VP4-1399x600");
+    background-size: cover;
+    height: 480px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
+/* box/ */
+
+.add {
+    margin-left: 25px;
+    margin-top: 1rem;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 130px;
+    text-decoration: none;
+    border: 0ch;
+    background-color: #ffffff;
+
+}
+
+.Teams {
+    margin-left: 25px;
+    margin-top: 1rem;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    border: 0ch;
+    background-color: #ffffff;
+
+}
+
+.Copilot {
+    margin-left: 25px;
+    margin-top: 1rem;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    border: 0ch;
+    background-color: #ffffff;
+
+}
+
+.windows {
+    margin-left: 25px;
+    margin-top: 1rem;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    border: 0ch;
+    background-color: #ffffff;
+
+}
+
+.Support {
+    margin-left: 25px;
+    margin-top: 1rem;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    border: 0ch;
+    background-color: #ffffff;
+}
+
+.All {
+    margin-left: 25px;
+    margin-top: 1rem;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 400px;
+}
+
+/* this search  styling */
+.icon {
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+}
+
+#search {
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+}
+
+
+.box1 {
+    width: 36%;
+    background-color: rgb(255, 255, 255);
+    padding: 48px;
+    margin: 60px;
+
+}
+
+.new {
+    background-color: #ffb900;
+    height: 28px;
+    width: 46px;
+    padding-left: 6px;
+    padding-right: 3px;
+    font-weight: 600px;
+    padding-top: 4px;
+}
+
+.more {
+    background-color: #0067b8;
+    height: 30px;
+    width: 90px;
+    text-align: center;
+    padding-top: 5px;
+
+}
+
+.hero-msg {
+    padding-right: 375px;
+    padding-bottom: 95px;
+}
+
+.icon1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.icon-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+i {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.down {
+    font-size: 16px;
+}
+
+
+.final {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.box {
+    width: 22%;
+    background-color: white;
+    padding: 0px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.img {
+    height: 180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 1rem;
+}
+
+.one {
+    background-color: #0067b8;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: none;
+    justify-content: space-evenly;
+    text-size-adjust: 15px;
+}
+
+
+footer {
+    margin-top: 5px;
+}
+
+.foot-panel1 {
+    background-color: #d2c1c1df;
+    margin-left: 1120px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    margin-bottom: 50px;
+}
+
+.foot-panel2 {
+    background-color: #eaeaea;
+    color: rgb(0, 0, 0);
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+ul a {
+    display: block;
+    font-size: 0.85;
+    margin-top: 10px;
+    color: #000000;
+
+}
+
